@@ -1,0 +1,20 @@
+---
+layout: post
+title: "andand"
+permalink: /2008/03/18/andand
+date: 2008-03-18 17:08:02 +0100
+---
+
+I really, really like [andand](https://github.com/raganwald/andand). Try it and stop repeating yourself.
+
+I mean, why would you want to write this:
+
+{% highlight ruby %}
+entry.at('description') && entry.at('description').inner_text
+{% endhighlight %}
+
+when you can write this:
+
+{% highlight ruby %}
+entry.at('description').andand.inner_text
+{% endhighlight %}

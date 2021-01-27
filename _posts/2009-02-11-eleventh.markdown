@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Eleventh"
+permalink: /2009/02/11/enough-with-the-metaphors
+date: 2009-02-11 17:08:02 +0100
+---
+
+Did you know that Ruby was Matz’ *eleventh* take on creating a programming language? Listen. So don't despare next time you fail, you are right on track.
+
+> I sat down and counted the other day and Ruby was eleventh language I've tried to write. Out of those 4 only had names, 3 of them didn't work at all… the rest of them was just experiments. Ruby is the only one that really worked, so I guess that makes Ruby the first one, but it was one out of eleven attempts.
+>
+> ~ Matz
+
+> The road to wisdom? – Well, it's plain and simple to express: Err and err and err again but less and less and less.
+>
+> ~ Piet Hein
